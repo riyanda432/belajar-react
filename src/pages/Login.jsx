@@ -83,7 +83,7 @@ function Login() {
           >
             <Stack spacing={4}>
               <FormControl className="email">
-                <FormLabel>Email ad1dress</FormLabel>
+                <FormLabel>Email address Update</FormLabel>
                 <Input
                   type="email"
                   name="email"
